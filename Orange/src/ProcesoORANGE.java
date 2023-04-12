@@ -73,7 +73,7 @@
 	         
 	}
 	  } 
-	    
+            }
      else {  
     	 System.out.println( " realizar visitas de mantenimiento");
      }
@@ -135,7 +135,7 @@
 	    
 	}
             }
-	    }
+	    
 	
 	
 	
