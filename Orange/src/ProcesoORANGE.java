@@ -31,7 +31,9 @@
 	                System.out.println("Registro de captación fallida para " + clientePotencial);
 	         
 	                System.out.println("Proceso finalizado.");
-	            } else {
+	             return;
+	               
+	            }  else {
 	                System.out.println("Preparando y realizando visitas de mantenimiento para " + clientePotencial);
 	                
 	                System.out.println("Registrado en la base datos");
